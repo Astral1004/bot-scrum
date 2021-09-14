@@ -1,0 +1,52 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+body {
+  background: rgba(231, 235, 239, 1);
+  margin: 0;
+}
+
+
+@font-face {
+  font-family:'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../src/assets/fonts/openSans/OpenSans-Light.ttf')
+  format("truetype");
+}
+@font-face {
+  font-family:'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../src/assets/fonts/openSans/OpenSans-Regular.ttf')
+  format("truetype");
+}
+@font-face {
+  font-family:'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../src/assets/fonts/openSans/OpenSans-Bold.ttf')
+  format("truetype");
+}
+@font-face {
+  font-family:'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../src/assets/fonts/openSans/OpenSans-SemiBold.ttf')
+  format("truetype");
+}
+@font-face {
+  font-family:'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('../src/assets/fonts/openSans/OpenSans-ExtraBold.ttf')
+  format("truetype");
+}
