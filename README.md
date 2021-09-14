@@ -1,21 +1,10 @@
-# Scrum Bot 2.0
+# ScrumBot
+Данный веб интерфейс позволяет проводить опросы среди сотрудников компании. Опросы отправляются в тимс указанным участникам. На сайте представлена возможность создавать, просматривать, редактировать, архивировать опросы. Просматривать статистику, а также сами ответы пользователей и т.д
 
-Для запуска проекта необходимо:
-
-1) Открыть проект через Visual studio code;
-
-2) Сбилдить бэкенд:в терминале последовательно прописать:
-
-$ cd backend     // Переходим в ветку бэкенда
-$ npm install    // Запускаем инстал
-$ npm run start  // Запуск проекта
-$ npm run build  // Создание билда
-
-3) Сбилдить фронтэнд: в терминале последовательно прописать:
-
-$ cd fronten     // Переходим в ветку фронтенда
-$ npm install    // Запускаем инстал
-$ npm run start  // Запуск проекта
-
- 
- По завершению проект должен автоматически открыться в браузере (в случае, если этого не произошло, доступ к проекту по ссылке - http://localhost:3000).
+В работе использовался (ReactJS, TypeScript, NodeJS, PostgresSQL, StoryBook, NestJS, Redux Toolkit)
+<a href="url"><img src="foto/Screenshot_1.png" ></a>
+<a href="url"><img src="foto/Screenshot_2.png" ></a>
+<a href="url"><img src="foto/Screenshot_3.png" ></a>
+<a href="url"><img src="foto/Screenshot_4.png" ></a>
+<a href="url"><img src="foto/Screenshot_5.png" ></a>
+<a href="url"><img src="foto/Screenshot_6.png" ></a>
